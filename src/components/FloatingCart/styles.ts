@@ -17,7 +17,7 @@ export const CartPricing = styled.Text`
 `;
 
 export const CartTotalPrice = styled.Text`
-  font-size: 16px;
+  font-size: 20px;
   color: #fff;
   font-weight: bold;
 `;
@@ -33,6 +33,7 @@ export const CartButton = styled.TouchableOpacity`
 `;
 
 export const CartButtonText = styled.Text`
+  font-size: 16px;
   font-weight: bold;
   color: #fff;
   margin-left: 15px;
