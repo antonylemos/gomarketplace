@@ -8,7 +8,7 @@ import AppContainer from './hooks';
 const App: React.FC = () => (
   <View style={{ backgroundColor: '#312e38', flex: 1 }}>
     <AppContainer>
-      <StatusBar barStyle="light-content" backgroundColor="#e83f5b" />
+      <StatusBar barStyle="dark-content" backgroundColor="##EBEEF8" />
       <Routes />
     </AppContainer>
   </View>
